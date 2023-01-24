@@ -11,3 +11,18 @@
 .customBtn {
     background-color: var(--primary-background-color);
 }
+
+.custom-banner {
+    background-image: url(../images/banner.png);
+    background-position: right;
+    height: 550px;
+    width: 100%;
+}
+
+.banner-text {
+    height: 100px;
+}
+
+.banner-text input {
+    height: 100%;
+}
